@@ -63,8 +63,8 @@
     }
     #center{
         position:absolute;
-        right:270px;
-        top:700px;
+        right:250px;
+        top:750px;
     }
     .photo{
         margin-left:60px;
@@ -132,5 +132,4 @@
         <a href="https://en.wikipedia.org/wiki/Greece"> greece wicipedia</a>
         <a href="https://en.wikipedia.org/wiki/Santorini"> santoriny</a>
  
-    </body>
-</html>
+
