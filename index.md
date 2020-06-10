@@ -63,8 +63,8 @@
     }
     #center{
         position:absolute;
-        left:270px;
-        top:650px;
+        right:270px;
+        top:700px;
     }
     .photo{
         margin-left:60px;
