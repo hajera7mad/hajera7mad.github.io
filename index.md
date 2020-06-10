@@ -63,8 +63,8 @@
     }
     #center{
         position:absolute;
-        right:450px;
-        top:800px;
+        right:500px;
+        top:799px;
     }
     .photo{
         margin-left:300px;
@@ -119,8 +119,8 @@
     
   <span id="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Oia%2C_Santorini_HDR_sunset.jpg/800px-Oia%2C_Santorini_HDR_sunset.jpg" alt="santorini hotels" width="400"> <br><br> </span>
     
-  One of the major reasons why the island of Santorini stands out is its distinctive architecture. Along with its other special characteristics they compose the extraordinary beauty that makes Santorini unique. It shares the same features with the rest of the islands that lie in the Aegean Sea, especially the Cyclades, with the typical whitewashed houses, blue-domed churches and paved paths. Nevertheless, the potential and the peculiarities of the landscape have played an important role in its architectural style and formed its particular characteristics.<br>Santorini is defined by the simplicity and adaptability of its buildings.<br> The main building materials are, of course, volcanic which are abundant thanks to the well-known volcano; volcanic dust, black igneous rock, red rock and pumice stone.<br> Two basic architectural characteristics of the island are the domes and the cave houses, whose construction is easy and inexpensive. They were used as residences by poorer inhabitants due to their low cost, as they made use of what nature provided. Some settlements of Santorini are built on the edge of the caldera cliff, others extend outside the fortified castle-towns, known as kastelia, to various directions and the rest of them are nestled in the rocks. <br>
-  <div class="photo">
+  One of the major reasons why the island of Santorini stands out is its distinctive architecture. Along with its other special characteristics they compose the extraordinary beauty that makes Santorini unique. It shares the same features with the rest of the islands that lie in the Aegean Sea, especially the Cyclades, with the typical whitewashed houses, blue-domed churches and paved paths. Nevertheless, the potential and the peculiarities of the landscape have played an important role in its architectural style and formed its particular characteristics.<br>Santorini is defined by the simplicity and adaptability of its buildings.<br> The main building materials are, of course, volcanic which are abundant thanks to the well-known volcano; volcanic dust, black igneous rock, red rock and pumice stone.<br> <br>Two basic architectural characteristics of the island are the domes and the cave houses, whose construction is easy and inexpensive. They were used as residences by poorer inhabitants due to their low cost, as they made use of what nature provided. Some settlements of Santorini are built on the edge of the caldera cliff, others extend outside the fortified castle-towns, known as kastelia, to various directions and the rest of them are nestled in the rocks. <br><br>
+ <br> <div class="photo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg/1920px-Panoramic_view_of_Oia%2C_Santorini_island_%28Thira%29%2C_Greece.jpg" alt="santorini hotels" width="500">
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Panoramic_skies_over_Oia_Santorini_island_%28Thira%29%2C_Greece.jpg/1920px-Panoramic_skies_over_Oia_Santorini_island_%28Thira%29%2C_Greece.jpg" alt="santorini" width="500">
