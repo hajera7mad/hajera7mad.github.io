@@ -63,11 +63,11 @@
     }
     #center{
         position:absolute;
-        right:400px;
-        top:790px;
+        right:450px;
+        top:800px;
     }
     .photo{
-        margin-left:400px;
+        margin-left:300px;
     }
     </style>
     <body>
@@ -113,7 +113,7 @@
         </ol></div>
 
         
-        <h4>Santorini Island</h4>
+        <h4 font-size:14px>Santorini Island</h4>
         <p >
     officially Thira , is an island in the southern Aegean Sea, about 200 km (120 mi) southeast of Greece's mainland.<br> It is the largest island of a small, circular archipelago, which bears the same name and is the remnant of a volcanic caldera.<br> It forms the southernmost member of the Cyclades group of islands, with an area of approximately 73 km2 (28 sq mi) and a 2011 census population of 15,550. The municipality of Santorini includes the inhabited islands of Santorini and Therasia, as well as the uninhabited islands of Nea Kameni, Palaia Kameni, Aspronisi and Christiana. The total land area is 90.623 km2 (34.990 sq mi).<br> <br>
     
