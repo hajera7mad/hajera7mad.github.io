@@ -67,7 +67,7 @@
         top:800px;
     }
     .photo{
-        margin-left:60px;
+        margin-right:160px;
     }
     </style>
     <body>
@@ -117,7 +117,7 @@
         <p >
     officially Thira , is an island in the southern Aegean Sea, about 200 km (120 mi) southeast of Greece's mainland.<br> It is the largest island of a small, circular archipelago, which bears the same name and is the remnant of a volcanic caldera.<br> It forms the southernmost member of the Cyclades group of islands, with an area of approximately 73 km2 (28 sq mi) and a 2011 census population of 15,550. The municipality of Santorini includes the inhabited islands of Santorini and Therasia, as well as the uninhabited islands of Nea Kameni, Palaia Kameni, Aspronisi and Christiana. The total land area is 90.623 km2 (34.990 sq mi).<br> <br>
     
-  <span id="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Oia%2C_Santorini_HDR_sunset.jpg/800px-Oia%2C_Santorini_HDR_sunset.jpg" alt="santorini hotels" width="300"> <br><br> </span>
+  <span id="center">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Oia%2C_Santorini_HDR_sunset.jpg/800px-Oia%2C_Santorini_HDR_sunset.jpg" alt="santorini hotels" width="500"> <br><br> </span>
     
   One of the major reasons why the island of Santorini stands out is its distinctive architecture. Along with its other special characteristics they compose the extraordinary beauty that makes Santorini unique. It shares the same features with the rest of the islands that lie in the Aegean Sea, especially the Cyclades, with the typical whitewashed houses, blue-domed churches and paved paths. Nevertheless, the potential and the peculiarities of the landscape have played an important role in its architectural style and formed its particular characteristics.<br>Santorini is defined by the simplicity and adaptability of its buildings.<br> The main building materials are, of course, volcanic which are abundant thanks to the well-known volcano; volcanic dust, black igneous rock, red rock and pumice stone.<br> Two basic architectural characteristics of the island are the domes and the cave houses, whose construction is easy and inexpensive. They were used as residences by poorer inhabitants due to their low cost, as they made use of what nature provided. Some settlements of Santorini are built on the edge of the caldera cliff, others extend outside the fortified castle-towns, known as kastelia, to various directions and the rest of them are nestled in the rocks. <br>
   <div class="photo">
@@ -132,4 +132,3 @@
         <a href="https://en.wikipedia.org/wiki/Greece"> greece wicipedia</a>
         <a href="https://en.wikipedia.org/wiki/Santorini"> santoriny</a>
  
-
