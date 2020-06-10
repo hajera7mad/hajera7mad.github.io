@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -64,7 +64,7 @@
     #center{
         position:absolute;
         right:250px;
-        top:750px;
+        top:800px;
     }
     .photo{
         margin-left:60px;
