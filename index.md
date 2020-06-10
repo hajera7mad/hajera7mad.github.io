@@ -67,7 +67,7 @@
         top:798px;
     }
     .photo{
-        margin-left:300px;
+        margin-left:50px;
     }
     </style>
     <body>
