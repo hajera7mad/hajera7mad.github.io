@@ -63,11 +63,11 @@
     }
     #center{
         position:absolute;
-        right:500px;
-        top:799px;
+        right:700px;
+        top:798px;
     }
     .photo{
-        margin-left:300px;
+        margin-left:350px;
     }
     </style>
     <body>
